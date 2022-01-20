@@ -10,7 +10,7 @@ Sapa.com is one of the leading eCommerce platforms in Nigeria with millions of d
 The CEO, Mr Echoke in his recent actions to put the platform back to the top of the eCommerce platforms chain in the country has approved the use of Artificial intelligence in User Personality Analysis. The company has contracted your team consisting of AI professionals with a special focus on recommender system development to build a robust intelligent model capable of recommending products and services to Users based on their activities on sapa.com.
 
 #### Task::
-Your team lead has assigned you to the `building of a model capable of predicting users’ responses to marketing campaigns` based on the features in the provided dataset by the sapa.com data engineer. The next phase of the project is highly dependent on the accuracy of your model as `this is the foundation of what will constitute the features of the proposed recommender system development`.
+Assuming the role of a Junior Data Scientist on the team, `build a model capable of predicting users’ responses to marketing campaigns` based on the features in the provided dataset by the sapa.com data engineer. The next phase of the project is highly dependent on the accuracy of the model as `this is the foundation of what will constitute the features of the proposed recommender system development`.
 
 ### Dataset
 The dataset used, as well as, the data dictionary can be found on the [Zindi - 2021 DSN AI Bootcamp Qualification Hackathon ](https://zindi.africa/competitions/ai-bootcamp-2021/data).
